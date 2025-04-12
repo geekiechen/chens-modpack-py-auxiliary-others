@@ -1,20 +1,16 @@
 ---------------------------------------------------------------------------------------------------
-版本: 0.2.0
-日期: 2025-03-27
-    改变:
-        - 调整了前置依赖模组，不再需要VoidChestInstant模组，而是需要easyvoid模组。
-
+Version: 0.3.0
+Date: 2025-04-12
+ Change:
+  - Added prerequisite mod: FluidMustFlow.
+  - Removed prerequisite mod: pump-anywhere.
+---------------------------------------------------------------------------------------------------
 Version: 0.2.0
 Date: 2025-03-27
-    Change:
-        - Adjusted the prerequisite mods, replacing the need for the VoidChestInstant mod with the easyvoid mod.
+ Change:
+  - Adjusted the prerequisite mods, replacing the need for the VoidChestInstant mod with the easyvoid mod.
 ---------------------------------------------------------------------------------------------------
-版本: 0.1.0
-日期: 2025-03-26
-    改变:
-        - 添加了更新日志。
-
 Version: 0.1.0
 Date: 2025-03-26
-    Change:
-        - Added a changelog.
+ Change:
+  - Added a changelog.
