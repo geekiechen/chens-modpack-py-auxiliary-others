@@ -1,16 +1,21 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.3.1
+Date: 2025-04-21
+  Changes:
+    - Updated version.
+---------------------------------------------------------------------------------------------------
 Version: 0.3.0
 Date: 2025-04-12
- Change:
-  - Added prerequisite mod: FluidMustFlow.
-  - Removed prerequisite mod: pump-anywhere.
+  Changes:
+    - Added prerequisite mod: FluidMustFlow.
+    - Removed prerequisite mod: pump-anywhere.
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.0
 Date: 2025-03-27
- Change:
-  - Adjusted the prerequisite mods, replacing the need for the VoidChestInstant mod with the easyvoid mod.
+  Changes:
+    - Adjusted the prerequisite mods, replacing the need for the VoidChestInstant mod with the easyvoid mod.
 ---------------------------------------------------------------------------------------------------
 Version: 0.1.0
 Date: 2025-03-26
- Change:
-  - Added a changelog.
+  Changes:
+    - Added a changelog.

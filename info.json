@@ -1,6 +1,6 @@
 {
     "name": "chens-modpack-py-auxiliary-others",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "title": "Chens Modpack(py+auxiliary+others)",
     "author": "JackieChen",
     "dependencies": [
@@ -8,7 +8,6 @@
         "aai-containers",
         "aai-signals",
         "DoingThingsByHand",
-        "easyvoid",
         "ElectricFurnacesRevamp",
         "FluidMustFlow",
         "Mini_Trains",
@@ -20,10 +19,10 @@
 
         "~ chens-modpack-auxiliary",
 
+        "? easyvoid",
         "? elevated-rails",
         "? oarc-mod",
 
-        "! quality",
         "! space-age"
     ],
     "description": "这个是我做的py模组+辅助模组+其他模组整合包。",
