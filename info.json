@@ -1,6 +1,6 @@
 {
     "name": "chens-modpack-py-auxiliary-others",
-    "version": "0.3.3",
+    "version": "0.3.4",
     "title": "Chens Modpack(py+auxiliary+others)",
     "author": "JackieChen",
     "dependencies": [
@@ -14,8 +14,7 @@
         "Mini-Trains-Lead-the-Way",
         "rd-fuelmix",
         "StoneWaterWell-ActuallyUpdated",
-        "wood-base-assets",
-        "wood-logistics <= 2.4.2",
+        "wood-logistics",
 
         "~ chens-modpack-auxiliary",
 
