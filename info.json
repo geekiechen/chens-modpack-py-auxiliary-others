@@ -1,7 +1,7 @@
 {
     "name": "chens-modpack-py-auxiliary-others",
-    "version": "0.3.5",
-    "title": "Chens Modpack(pyanodon+auxiliary+others)",
+    "version": "0.4.0",
+    "title": "Chens Modpack(Pyanodon + auxiliary + others)",
     "author": "GeekieChen",
     "dependencies": [
         "chens-modpack-py",
@@ -18,17 +18,14 @@
 
         "~ chens-modpack-auxiliary",
 
-        "? chens-color-tile-mod",
         "? easyvoid",
         "? elevated-rails",
         "? loaders-modernized",
         "? oarc-mod",
 
-        "(?) chens-food-mod-core",
-
         "! space-age"
     ],
-    "description": "这个是我做的pyanodon模组+辅助模组+其他模组整合包。",
+    "description": "这个是我做的 Pyanodon 模组 + 辅助模组 + 其他模组整合包。",
     "factorio_version": "2.0",
     "license": "MIT"
 }
