@@ -1,6 +1,6 @@
 {
     "name": "chens-modpack-py-auxiliary-others",
-    "version": "0.5.0",
+    "version": "0.6.0",
     "title": "Chens Modpack (Pyanodon + Auxiliary + Others)",
     "author": "GeekieChen",
     "dependencies": [
@@ -24,6 +24,9 @@
         "? elevated-rails",
         "? loaders-modernized",
         "? oarc-mod",
+        "? Transport_Drones_Meglinge_Fork",
+        "? Transport-Drones-On-Asphalt",
+        "Warehousing",
 
         "! space-age"
     ],

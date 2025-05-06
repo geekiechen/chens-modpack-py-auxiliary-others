@@ -1,4 +1,11 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.6.0
+Date: 2025-05-06
+  Changes:
+    - Added optional prerequisite mod: Transport_Drones_Meglinge_Fork.
+    - Added optional prerequisite mod: Transport-Drones-On-Asphalt.
+    - Added optional prerequisite mod: Warehousing.
+---------------------------------------------------------------------------------------------------
 Version: 0.5.0
 Date: 2025-05-04
   Changes:
